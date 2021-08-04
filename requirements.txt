@@ -6,5 +6,4 @@ datetime
 cmocean
 scipy
 netCDF4
-math
 cartopy
