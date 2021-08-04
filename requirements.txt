@@ -7,3 +7,4 @@ cmocean
 scipy
 netCDF4
 cartopy
+cython
