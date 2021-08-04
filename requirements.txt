@@ -2,7 +2,6 @@ matplotlib
 numpy
 pandas
 xarray
-mpl_toolkits
 datetime
 cmocean
 glob
