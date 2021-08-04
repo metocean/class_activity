@@ -4,7 +4,6 @@ pandas
 xarray
 datetime
 cmocean
-glob
 scipy
 netCDF4
 math
